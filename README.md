@@ -1,8 +1,8 @@
 ## PORTFÓLIO
 
-![GitHub repo size](https://img.shields.io/github/repo-size/IvambergSilva/angular-weatherForecast?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/IvambergSilva/angular-weatherForecast?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/IvambergSilva/angular-weatherForecast?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/IvambergSilva/portfolio?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/IvambergSilva/portfolio?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/IvambergSilva/portfolio?style=for-the-badge)
 
 <!--<img src="" alt="Exemplo de imagem">-->
 
@@ -22,7 +22,7 @@
 [![ReacJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://pt-br.reactjs.org/)
 [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)]
+[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 <hr>
